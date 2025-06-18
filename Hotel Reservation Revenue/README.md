@@ -13,22 +13,3 @@ Thrilled to share a recent project that demonstrates the power of data visualiza
     * **Guest Loyalty & Behavior:** Analysis of "Repeated Guests" across years, along with demographics (adults, babies, children), helps tailor guest experiences and loyalty programs.
     * **Cancellation Management:** A deep dive into cancelled vs. non-cancelled reservations across months offers crucial data for understanding cancellation drivers and implementing mitigation strategies.
     * **Booking Patterns:** The breakdown of room types booked on week vs. weekend nights helps optimize inventory and pricing.
-
-**Impact & Application:**
-
-This dashboard is designed as a powerful tool for hotel owners, general managers, revenue managers, and data analysts to:
-
-* Identify peak booking seasons and optimize pricing strategies.
-* Understand guest segments and tailor marketing efforts.
-* Monitor and mitigate cancellation impacts.
-* Improve operational efficiency by analyzing car space usage and total nights.
-* Make data-driven decisions that directly impact the bottom line.
-
-**Technologies (fill in if applicable):**
-
-* \[e.g., Tableau, Power BI, Looker Studio, Python (Pandas, Matplotlib/Seaborn), SQL]
-* \[e.g., Data cleaning and transformation techniques]
-
-I'm passionate about leveraging data to unlock business potential. Feel free to connect if you're exploring similar challenges or insights in the hospitality or data analytics space!
-
-\
